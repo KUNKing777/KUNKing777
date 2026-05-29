@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220">
+  <style>
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    text { font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Consolas', monospace; font-size: 15px; }
+    .bg { fill: #0d1117; rx: 12; }
+    .dot1 { fill: #ff5f57; }
+    .dot2 { fill: #febc2e; }
+    .dot3 { fill: #28c840; }
+    .keyword { fill: #ff7b72; }
+    .function { fill: #d2a8ff; }
+    .method { fill: #79c0ff; }
+    .string { fill: #a5d6ff; }
+    .punct { fill: #8b949e; }
+    .cursor { fill: #58a6ff; animation: blink 1s infinite; }
+    .line { animation: fadeIn 0.3s ease-in both; }
+    .l1 { animation-delay: 0.3s; }
+    .l2 { animation-delay: 0.8s; }
+    .l3 { animation-delay: 1.4s; }
+    .l4 { animation-delay: 2.8s; }
+    .l5 { animation-delay: 3.3s; }
+    .l6 { animation-delay: 3.6s; }
+  </style>
+  <rect class="bg" width="600" height="220" rx="12"/>
+  <circle cx="24" cy="20" r="6" class="dot1"/>
+  <circle cx="44" cy="20" r="6" class="dot2"/>
+  <circle cx="64" cy="20" r="6" class="dot3"/>
+
+  <!-- fn main() -->
+  <g class="line l1">
+    <text x="24" y="65"><tspan class="keyword">fn</tspan> <tspan class="function">main</tspan><tspan class="punct">()</tspan> <tspan class="punct">{</tspan></text>
+  </g>
+
+  <!-- loop { -->
+  <g class="line l2">
+    <text x="50" y="95"><tspan class="keyword">loop</tspan> <tspan class="punct">{</tspan></text>
+  </g>
+
+  <!-- let result = dream().unwrap_or_else(|_| grind()); -->
+  <g class="line l3">
+    <text x="76" y="125"><tspan class="keyword">let</tspan> result = <tspan class="method">dream</tspan><tspan class="punct">()</tspan>.<tspan class="method">unwrap_or_else</tspan><tspan class="punct">(|_|</tspan> <tspan class="method">grind</tspan><tspan class="punct">());</tspan></text>
+  </g>
+
+  <!-- ship(result); -->
+  <g class="line l4">
+    <text x="76" y="155"><tspan class="method">ship</tspan><tspan class="punct">(result);</tspan></text>
+  </g>
+
+  <!-- } -->
+  <g class="line l5">
+    <text x="50" y="185"><tspan class="punct">}</tspan></text>
+  </g>
+
+  <!-- } -->
+  <g class="line l6">
+    <text x="24" y="205"><tspan class="punct">}</tspan></text>
+    <rect x="40" y="192" width="8" height="18" class="cursor" rx="1"/>
+  </g>
+</svg>
