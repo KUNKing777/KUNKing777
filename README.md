@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # Hi, I'm Qi 👋
 
@@ -90,4 +90,3 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=KUNKing777&color=blueviolet&style=for-the-badge)
 
 </div>
-]]>
