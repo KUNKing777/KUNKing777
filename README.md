@@ -68,16 +68,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Seven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KUNKing777&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Seven%27s%20GitHub%20Stats)
-
-</div>
-
----
-
 ## 🌱 Beyond Code
 
 - 📺 **国漫** — 重度修仙党，《凡人修仙传》《仙逆》《剑来》
