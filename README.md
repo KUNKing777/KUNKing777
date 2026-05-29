@@ -4,14 +4,7 @@
 
 ### 🤖 AI Undergraduate · Full Stack Builder · Open Source Enthusiast
 
-```rust
-fn main() {
-    loop {
-        let result = dream().unwrap_or_else(|_| grind());
-        ship(result);
-    }
-}
-```
+<img src="code-animation.svg" width="100%" />
 
 > *试逐鸿志，遇挫笃行，终成其事。*
 
