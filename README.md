@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Seven 👋
+# Hi, I'm Seven
 
-### 🤖 AI Undergraduate · Full Stack Builder · Open Source Enthusiast
+### AI Undergraduate · Full Stack Builder · Open Source Enthusiast
 
 <img src="code-animation.svg" alt="code animation" />
 
@@ -12,17 +12,17 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎓 人工智能在读本科生
-- 💻 兴趣方向：**AI 应用落地**、**竞赛**、**全栈开发**
-- ✍️ 技术博客：[Seven's Blog](https://seven-blog.pages.dev)
-- 🔬 深度关注 **AI Agent 架构**、**LLM 成本优化**、**开源 AI 生态**
-- 🌱 在学中建，在写中长
+- 人工智能在读本科生
+- 兴趣方向：**AI 应用落地**、**竞赛**、**全栈开发**
+- 技术博客：[Seven's Blog](https://seven-blog.pages.dev)
+- 深度关注 **AI Agent 架构**、**LLM 成本优化**、**开源 AI 生态**
+- 在学中建，在写中长
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -68,13 +68,13 @@
 
 ---
 
-## 🌱 Beyond Code
+## Beyond Code
 
-- 📺 **国漫** — 重度修仙党，《凡人修仙传》《仙逆》《剑来》
-- 🎵 **音乐** — 听歌写代码两不误，华语 / 英文 / 轻音乐 / 纯音乐
-- 📷 **摄影** — 扫街拍光影，主力手机党
-- 🌍 **看世界** — 国际新闻、时政科技、多元视角
-- 🔧 **硬件入门** — 单片机、嵌入式、电子 DIY，浅尝摸索中
+- **国漫** — 重度修仙党，《凡人修仙传》《仙逆》《剑来》
+- **音乐** — 听歌写代码两不误，华语 / 英文 / 轻音乐 / 纯音乐
+- **摄影** — 扫街拍光影，主力手机党
+- **看世界** — 国际新闻、时政科技、多元视角
+- **硬件入门** — 单片机、嵌入式、电子 DIY，浅尝摸索中
 
 > *生活和代码一样，需要保持好奇心和一点点折腾的兴致。*
 
@@ -82,12 +82,10 @@
 
 <div align="center">
 
-### 📫 Let's Connect
+### Let's Connect
 
 [![Blog](https://img.shields.io/badge/Blog-00E5FF?style=for-the-badge&logo=hexo&logoColor=white)](https://seven-blog.pages.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KUNKing777)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunking777@qq.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=KUNKing777&color=blueviolet&style=for-the-badge)
 
 </div>
