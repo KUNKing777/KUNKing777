@@ -4,7 +4,7 @@
 
 ### 🤖 AI Undergraduate · Full Stack Builder · Open Source Enthusiast
 
-<img src="code-animation.svg" width="100%" />
+<img src="code-animation.svg" alt="code animation" />
 
 > *试逐鸿志，遇挫笃行，终成其事。*
 
@@ -72,8 +72,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KUNKing777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KUNKing777&theme=tokyonight&hide_border=true" width="48%" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KUNKing777&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KUNKing777&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
