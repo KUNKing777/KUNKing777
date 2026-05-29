@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Seven
+# Hi, I'm Qi
 
 ### AI Undergraduate · Full Stack Builder · Open Source Enthusiast
 
