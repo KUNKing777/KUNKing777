@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="580" height="260" viewBox="0 0 580 260">
   <defs>
     <filter id="shadow">
-      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000" flood-opacity="0.4"/>
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000" flood-opacity="0.3"/>
     </filter>
   </defs>
 
@@ -20,17 +20,17 @@
     }
 
     .window {
-      fill: #000000;
+      fill: #282c34;
       rx: 10;
-      stroke: #1a1a1a;
+      stroke: #1e2127;
       stroke-width: 1;
     }
-    .titlebar { fill: #0a0a0a; }
+    .titlebar { fill: #21252b; }
     .dot-red { fill: #e06c75; }
     .dot-yellow { fill: #e5c07b; }
     .dot-green { fill: #98c379; }
     .filename { fill: #5c6370; font-size: 12px; }
-    .line-num { fill: #3a3f4b; font-size: 13px; }
+    .line-num { fill: #4b5263; font-size: 13px; }
 
     .keyword { fill: #c678dd; }
     .func    { fill: #61afef; }
@@ -43,7 +43,6 @@
     .cursor {
       fill: #528bff;
       animation: blink 1s step-end infinite;
-      opacity: 1;
     }
 
     .line { animation: fadeIn 0.4s ease-out both; }
@@ -56,7 +55,6 @@
   </style>
 
   <rect class="window" width="580" height="260" filter="url(#shadow)"/>
-
   <rect class="titlebar" width="580" height="36" rx="10"/>
   <rect class="titlebar" y="20" width="580" height="16"/>
 
