@@ -72,9 +72,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KUNKing777&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KUNKing777&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![Seven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KUNKing777&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Seven%27s%20GitHub%20Stats)
 
 </div>
 
