@@ -77,22 +77,6 @@
 
 ---
 
-## Projects
-
-折腾的一些东西，欢迎 Star 与交流
-
-| 项目 | 说明 | 线上地址 |
-|------|------|----------|
-| [Seven's Blog](https://github.com/KUNKing777/blog-source) | 个人技术博客，Hexo + Cloudflare Pages | [blog.oneiseven.top](https://blog.oneiseven.top) |
-| [Seven's Music](https://github.com/KUNKing777/music_player) | 沉浸式音乐播放器 | [music.oneiseven.top](https://music.oneiseven.top) |
-| [CodeBeautify](https://github.com/KUNKing777/CodeBeautify) | 代码截图美化器，192 种语言 / 23 主题 | [codebeautify.oneiseven.top](https://codebeautify.oneiseven.top) |
-| [Linux Command](https://github.com/KUNKing777/linux-command) | Linux 命令速查手册，600+ 命令 | [linux-command.oneiseven.top](https://linux-command.oneiseven.top) |
-| [豆趣绘](https://github.com/KUNKing777/douquhui) | 拼豆图纸生成器 | [douquhui.oneiseven.top](https://douquhui.oneiseven.top) |
-| [NetCheck](https://github.com/KUNKing777/NetCheck) | 网络诊断小工具 | [kunking777.github.io/NetCheck](https://kunking777.github.io/NetCheck/) |
-| [Smart Museum Guide](https://github.com/KUNKing777/SamartMuseumGuideAssistant) | 基于文心大模型的智能博物馆导览 | - |
-
----
-
 ## Beyond Code
 
 - **国漫** — 重度修仙党，《凡人修仙传》《仙逆》《剑来》
